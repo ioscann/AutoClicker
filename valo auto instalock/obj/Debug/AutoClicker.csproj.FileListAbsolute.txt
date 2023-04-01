@@ -1,0 +1,11 @@
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\bin\Debug\valo auto instalock.exe.config
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\bin\Debug\valo auto instalock.exe
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\bin\Debug\valo auto instalock.pdb
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\valo_auto_instalock.Form1.resources
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\valo_auto_instalock.Properties.Resources.resources
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\valo auto instalock.exe
+C:\Users\iosca\source\repos\AutoClicker\valo auto instalock\obj\Debug\valo auto instalock.pdb
